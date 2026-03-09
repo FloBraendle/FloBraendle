@@ -21,7 +21,9 @@ Three machines, each an independent embedded system, coordinated over a two-laye
 - **Embedded:** ESP32 · STM32 · custom PCB hardware
 - **Communication:** CAN-Bus · MQTT · OPC-UA (in research)
 - **CAD:** Fusion 360
-- **Currently learning:** CAN-Bus / MQTT protocol stack design, real-time networking
+- **EDA:** KiCad (learning)
+- **Industrial:** PLC programming · EPLAN · switchgear development
+- **Currently learning:** CAN-Bus / MQTT protocol stack · real-time networking
 
 ---
 
